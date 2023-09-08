@@ -1,2 +1,2 @@
 hello world
-print('forking')
+print('hello')
